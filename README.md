@@ -75,7 +75,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://www.linkedin.com/in/lavkesh-sharma-a17624358/"/></a>
   <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web"/></a>
 </p>
 
